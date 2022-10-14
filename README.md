@@ -1,4 +1,4 @@
-#`Amaze finance`                                 
+`Amaze finance`                                 
 articles about blockchain programming and more
 ============================================================
 
