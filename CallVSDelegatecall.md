@@ -22,7 +22,7 @@ contract Caller {
 
 *sender* - контракт Caller.
 *origin* - счет, который отправил транзакцию для выполнения Caller.makeCalls.
-*from* - это контракт Called.
+*from* - это контракт Called
 
 *origin* - это всегда EOA (Externally Owned Account), *msg.sender* - это адрес, с которого вызывается определенная функция, а *this* (*from*, в логах) - это контракт, на который вы ссылаетесь.
 
