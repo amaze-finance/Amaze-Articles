@@ -1,9 +1,7 @@
 **Call vs Delegatecall**
 
 Функции **call** и **delegatecall**, их главное отличие в том, что последняя вообще не изменяет контекст *msg.*
-```
-pragma solidity ^0.8.10;
-
+```solidity
 contract Called {
   event callEvent(address sender, address origin, address from);
   function callMe() public {
@@ -30,8 +28,7 @@ contract Caller {
 
 Вызов в контракте другого контракта через *call*:
 
-```
-pragma solidity ^0.6.12;
+```solidity
 
 import "../MetariumGames.sol";
 
