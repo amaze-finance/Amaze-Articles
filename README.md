@@ -13,3 +13,6 @@
 #### =[CallVSDelegatecall](https://github.com/amaze-finance/Articles/blob/main/CallVSDelegatecall.md)=
 
 #### =[ImpermanentLoss](https://github.com/amaze-finance/Articles/blob/main/ImpermanentLoss.md)=
+
+#### =[Contract-security](https://github.com/amaze-finance/Articles/blob/main/Contract-security.md)=
+
