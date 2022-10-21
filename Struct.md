@@ -21,6 +21,8 @@
 
 3. Три способа изменения параметров структуры:
 
+Первый способ
+
 ```solidity
     Instructor memory instructor = instructors[_address];
     instructor.age = _age;
@@ -28,6 +30,8 @@
     instructor.last_name = _last_name;
     instructorAccounts.push(_address) — 1;
 ```
+
+Второй способ
 
 ```solidity
     instructors[_address] = Instructor(
@@ -38,6 +42,8 @@
         }
     );
 ```
+
+Третий способ
 
 ```solidity
     instructors[_address] = Instructor(_age, _first_name, _last_name);
