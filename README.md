@@ -16,3 +16,4 @@
 
 #### =[Contract-security](https://github.com/amaze-finance/Articles/blob/main/Contract-security.md)=
 
+#### =[Struct](https://github.com/amaze-finance/Articles/blob/main/Struct.md)=
