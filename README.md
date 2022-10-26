@@ -20,4 +20,6 @@
 
 #### =[Test-Factory-pattern](https://github.com/amaze-finance/Articles/tree/main/Test-Factory-pattern)=
 
+#### =[MerkleTreeAirdrop](https://github.com/amaze-finance/Articles/blob/main/MerkleTreeAirdrop.md)=
 
+#### =[Blockchain-Aptos](https://github.com/amaze-finance/Articles/blob/main/Blockchain-Aptos.md)=
