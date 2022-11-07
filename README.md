@@ -27,3 +27,7 @@
 #### =[SybilAttack](https://github.com/amaze-finance/Articles/blob/main/SybilAttack.md)=
 
 #### =[Yield-farming](https://github.com/amaze-finance/Articles/blob/main/Yield-farming.md)=
+
+#### =[Oracle](https://github.com/amaze-finance/Articles/blob/main/Oracle.md)=
+
+#### =[Oracle-Types](https://github.com/amaze-finance/Articles/blob/main/Oracle-Types.md)=
