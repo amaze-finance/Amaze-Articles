@@ -33,3 +33,5 @@
 #### =[Oracle-Types](https://github.com/amaze-finance/Articles/blob/main/Oracle-Types.md)=
 
 #### =[FlashLoan](https://github.com/amaze-finance/Articles/blob/main/FlashLoan.md)=
+
+#### =[PoW](https://github.com/amaze-finance/Articles/blob/main/PoW.md)=
