@@ -35,3 +35,5 @@
 #### =[FlashLoan](https://github.com/amaze-finance/Articles/blob/main/FlashLoan.md)=
 
 #### =[PoW](https://github.com/amaze-finance/Articles/blob/main/PoW.md)=
+
+#### =[PoS](https://github.com/amaze-finance/Articles/blob/main/PoS.md)=
