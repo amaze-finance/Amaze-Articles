@@ -37,3 +37,5 @@
 #### =[PoW](https://github.com/amaze-finance/Articles/blob/main/PoW.md)=
 
 #### =[PoS](https://github.com/amaze-finance/Articles/blob/main/PoS.md)=
+
+#### =[DifferenceWeb3Web2](https://github.com/amaze-finance/Articles/blob/main/DifferenceWeb3Web2.md)=
