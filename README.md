@@ -41,3 +41,5 @@
 #### =[DifferenceWeb3Web2](https://github.com/amaze-finance/Articles/blob/main/DifferenceWeb3Web2.md)=
 
 #### =[WalletCoonectWeb3JS](https://github.com/amaze-finance/Articles/blob/main/WalletCoonectWeb3JS.md)=
+
+#### =[Stablecoin](https://github.com/amaze-finance/Amaze-Articles/blob/main/Stablecoin.md)=
