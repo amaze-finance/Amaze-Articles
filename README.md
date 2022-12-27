@@ -57,3 +57,5 @@
 #### =[Node-classification](https://github.com/amaze-finance/Amaze-Articles/blob/main/Node-classification.md)=
 
 #### =[Crypto-investment](https://github.com/amaze-finance/Amaze-Articles/blob/main/Crypto-investment.md)=
+
+#### =[Cryptotourism](https://github.com/amaze-finance/Amaze-Articles/blob/main/Cryptotourism.md)=
